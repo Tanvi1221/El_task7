@@ -1,1 +1,3 @@
 # El_task7
+I created a project where I used SQL inside Python to pull simple sales information like the total quantity sold and total revenue. First, I created a small sales table in a SQLite database using Python. Then, I wrote SQL queries to fetch the total quantity and revenue for each product. After that, I loaded the results into a pandas dataframe and printed them using basic print statements. Finally, I used matplotlib to create a simple bar chart showing the revenue for each product. I ran the entire script in a Python environment without needing any external database setup. To complete this project, I took help online to understand how to connect SQL with Python and how to display the output using pandas and matplotlib.
+
